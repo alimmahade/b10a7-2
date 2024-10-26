@@ -8,8 +8,8 @@ const Bannar = ({handleCredit}) => {
                 <img src="/src/assets/banner.png" alt="banar pic" />
                 </div>
                 <div>
-                <h1 className="text-3xl text-center text-white">Assemble Your Ultimate Dream 11 Cricket Team</h1>
-                <p className="text-2xl text-gray-300 text-center">Beyond Boundaries Beyond Limits</p>
+                <h1 className="text-4xl text-center text-white">Assemble Your Ultimate Dream 11 Cricket Team</h1>
+                <p className="text-2xl text-gray-400 text-center">Beyond Boundaries Beyond Limits</p>
                 </div>
                     <div className="flex justify-center">
                     <button onClick={()=>handleCredit(600000)
